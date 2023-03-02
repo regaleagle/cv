@@ -53,68 +53,83 @@ A software developer at heart, really I just love solving problems: algorithmic,
 I have 7 years experience as a professional full stack web developer, the last 2 of which have been as the Tech Lead for a team of 18. I try to lead by example and work hard to maintain my own technical competence and contributions. My primary mission though is empowering my team to achieve their own goals through process and structural improvement, as well as being involved in mentoring and education.
 
 content:
-  - title: Projects # Title for the section
-    layout: list # Type of content section (list/text)
-    content:
-      - layout: top-middle
-        title: Super awesome project
-        link: github.com/sproogen
-        # link_text: Project Website
-        additional_links:
-          - title:  sproogen/modern-resume-theme
-            icon: fab fa-github
-            url: github.com/sproogen/modern-resume-theme
-          # - title:  Github page for project (eg. sproogen/modern-resume-theme)
-          #   icon: fab fa-github
-          #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
-        quote: >
-          This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
-        description: | # this will include new lines to allow paragraphs
-          I started this project as a way if learning <mark>React</mark> and it has since grown into a fully fledged app. I have learned many skills through this and been I'm very proud of having this in my portfolio. If you don't have a project as awesome as this I would advise you make one.
+#   - title: Projects # Title for the section
+#     layout: list # Type of content section (list/text)
+#     content:
+#       - layout: top-middle
+#         title: Super awesome project
+#         link: github.com/sproogen
+#         # link_text: Project Website
+#         additional_links:
+#           - title:  sproogen/modern-resume-theme
+#             icon: fab fa-github
+#             url: github.com/sproogen/modern-resume-theme
+#           # - title:  Github page for project (eg. sproogen/modern-resume-theme)
+#           #   icon: fab fa-github
+#           #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
+#         quote: >
+#           This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
+#         description: | # this will include new lines to allow paragraphs
+#           I started this project as a way if learning <mark>React</mark> and it has since grown into a fully fledged app. I have learned many skills through this and been I'm very proud of having this in my portfolio. If you don't have a project as awesome as this I would advise you make one.
 
   - title: Experience # Title for the section
     layout: list # Type of content section (list/text)
     content:
       - layout: left
-        title: The Boring Company
-        link: boringcompany.com
+        title: Visit Group
+        link: visit.com
         # link_text: boringcompany.com
-        sub_title: Senior Network System Administrator
-        caption: November 2017 - Present
-        quote: >
-          Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
+        sub_title: Tech Lead
+        caption: June 2021 - Present
+        # quote: >
+        #   The digital eco-system for tourism
         description: | # this will include new lines to allow paragraphs
-            Every company needs its networks properly administered and The Boring Compay is no exception. Digging holes is hard and I play my part making sure the whole company stays connected. I lead a team of 5 people and enjoy driving the company to try new technologies.
-
+          Technical lead for Citybreak, the Central Reservation System for Visit Group - an e-commerce SaaS product suite and platform for tourism. 
+          As tech lead, I am responsible for setting the technical roadmap of the platform. 
+          The primary goal of which is to improve the reliability, performance and maintainability of our battle-tested (mostly) .Net codebase - as well as helping guide product development. 
+          I lead 3 teams so I am also responsible for improving processes, guidance and mentoring of 18 developers. 
+          I continue to actively contribute code for POCs, sensitive projects, troubleshooting and while pairing with our junior team members
+                - layout: left
+        title: Visit Group
+        link: visit.com
+        # link_text: boringcompany.com
+        sub_title: Software Engineer
+        caption: October 2016 - 2021
+        # quote: >
+        #   The digital eco-system for tourism
+        description: | # this will include new lines to allow paragraphs
+          After a career change, I started in the Citybreak business unit at Visit as a junior before becoming a de-facto lead of our core team. 
+          For the next few years I worked across our whole tech stack: .Net Framework & Core backend services, various combos of Asp.Net, Vue.Js and JQuery solutions for widgets, white-label front-end solutions and back office tools. 
+          Maintained SQL Server, Redis, Mongo, Elastic Search installations among others. 
+          Managing basic dev-ops for the on-prem setup was also an important part of the role
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
     content:
       - layout: left
-        title: Harvard University
-        caption: 2010 - 2013
-        sub_title: BSc Computer Science
-        quote: >
-          Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the US but also the world.
+        title: Gothenburg University
+        caption: 2013 - 2016
+        sub_title: BSc Software Engineering and Management
+        # quote: >
+        #   Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the US but also the world.
         description: | # this will include new lines to allow paragraphs
-          During my time at Harvard I learnt most of my key skills that have I have taken through my career such as teamwork and working to tight deadlines. I thouroughly enjoyed my time as university and learnt a lot about a healthy work life balance.
+          A collaboration between GU and Chalmers University. 
+          It has a practical, group-project based curriculum focused on designing and implementing software systems in a systematic fashion with quantifiable outcomes.
 
-          I spent a lot of my free time as a committee member of the *Harvard Mountaineering Club* taking on roles such as *Trip Secretary* and *Vice-President*.
+  # - title: A Little More About Me
+  #   layout: text
+  #   content: | # this will include new lines to allow paragraphs
+  #     Alongside my interests in networks and software engineering some of my other interests and hobbies are:
+  #     - Rock climbing
+  #     - Gaming
+  #     - Knitting
+  #     - [Becoming a ninja](https://www.youtube.com/watch?v=vtg4o__aRMg)
 
-  - title: A Little More About Me
-    layout: text
-    content: | # this will include new lines to allow paragraphs
-      Alongside my interests in networks and software engineering some of my other interests and hobbies are:
-      - Rock climbing
-      - Gaming
-      - Knitting
-      - [Becoming a ninja](https://www.youtube.com/watch?v=vtg4o__aRMg)
-
-      Look at this cool image  
-      ![Trees](/modern-resume-theme/images/landscape-trees.jpg "Trees")
+  #     Look at this cool image  
+  #     ![Trees](/modern-resume-theme/images/landscape-trees.jpg "Trees")
 
 # Footer
 footer_show_references: true
-# references_title: References on request (Override references text)
+references_title: References on requests
 
 # Build settings
 remote_theme: sproogen/resume-theme
