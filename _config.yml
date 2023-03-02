@@ -81,10 +81,10 @@ content:
         # link_text: boringcompany.com
         sub_title: Tech Lead
         caption: June 2021 - Present
-        # quote: >
-        #   The digital eco-system for tourism
+        quote: >
+          Technical lead and engineer for Citybreak, the Central Reservation System for Visit Group
         description: | # this will include new lines to allow paragraphs
-          Technical lead for Citybreak, the Central Reservation System for Visit Group - an e-commerce SaaS product suite and platform for tourism. 
+          Citybreak is a product and business unit at Visit - the company provides an e-commerce SaaS product suite and platform for tourism. 
           As tech lead, I am responsible for setting the technical roadmap of the platform. 
           The primary goal of which is to improve the reliability, performance and maintainability of our battle-tested (mostly) .Net codebase - as well as helping guide product development. 
           I lead 3 teams so I am also responsible for improving processes, guidance and mentoring of 18 developers. 
@@ -95,12 +95,13 @@ content:
         # link_text: boringcompany.com
         sub_title: Software Engineer
         caption: October 2016 - 2021
-        # quote: >
-        #   The digital eco-system for tourism
+        quote: >
+          The digital eco-system for tourism
         description: | # this will include new lines to allow paragraphs
-          After a career change, I started in the Citybreak business unit at Visit as a junior before becoming a de-facto lead of our core team. 
+          After a career change, I started in the Citybreak business unit at Visit as a junior in 2016. 
           For the next few years I worked across our whole tech stack: .Net Framework & Core backend services, various combos of Asp.Net, Vue.Js and JQuery solutions for widgets, white-label front-end solutions and back office tools. 
-          Maintained SQL Server, Redis, Mongo, Elastic Search installations among others. 
+          Maintained SQL Server, Redis, Mongo, Elastic Search installations among others.
+          After a few years I became a de-facto lead of our core team. Along the way I pioneered a number of new services and tools, in particular those targeting external integrations
           Managing basic dev-ops for the on-prem setup was also an important part of the role
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
