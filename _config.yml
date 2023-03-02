@@ -85,11 +85,12 @@ content:
           Technical lead and exploratory engineer for Citybreak
         description: | # this will include new lines to allow paragraphs
           Citybreak is the Central Reservation System for Visit Group, both a product and a business unit. Visit provides an e-commerce SaaS product suite and platform for tourism. 
-          As tech lead, I am responsible for setting the technical roadmap of the Citybreak part of the platform. 
-          The primary goals are to improve the reliability, performance and maintainability of our battle-tested (mostly) .Net codebase - as well as helping guide product development. 
-          I lead 3 teams so I am also responsible for improving processes, guidance and mentoring of 18 developers. 
-          I continue to actively contribute code for POCs, sensitive projects, troubleshooting and while pairing with our junior team members
-          Tech:
+          As tech lead, I am responsible for setting the technical roadmap of the Citybreak part of the platform.<br />
+          The primary goals are to improve the reliability, performance and maintainability of our battle-tested (mostly) .Net codebase - as well as helping guide product development.<br />
+          I lead 3 teams so I am also responsible for improving processes, guidance and mentoring of 18 developers.<br />
+          I continue to actively contribute code for POCs, sensitive projects, troubleshooting and while pairing with our junior team members<br />
+          <br />
+          Tech:<br />
           <mark>.NET Framework</mark> <mark>.NET Core</mark> <mark>C#</mark> <mark>JavaScript</mark> <mark>Vue.js</mark> <mark>TypeScript</mark> <mark>RabbitMQ</mark> <mark>Open Telemetry</mark> <mark>Redis</mark> <mark>MongoDB</mark> <mark>Elasticsearch</mark> <mark>Azure DevOps</mark> <mark>Octopus Deploy</mark> <mark>SQL Server</mark> <mark>VMWare</mark> 
       - layout: left
         title: Visit Group
@@ -100,11 +101,11 @@ content:
         quote: >
           Junior -> Senior at Visit
         description: | # this will include new lines to allow paragraphs
-          After a career change, I started in the Citybreak business unit at Visit as a junior in 2016. 
-          For the next few years I worked across our whole tech stack: .Net Framework & Core backend services, various combos of Asp.Net, Vue.Js and JQuery solutions for widgets, white-label front-end solutions and back office tools. 
-          Maintained SQL Server, Redis, Mongo, Elastic Search installations among others.
-          After a few years I became a de-facto lead of our core team. Along the way I pioneered a number of new services and tools, in particular those targeting external integrations
-          Managing basic dev-ops for the on-prem setup was also an important part of the role
+          After a career change, I started in the Citybreak business unit at Visit as a junior in 2016.<br />
+          For the next few years I worked across our whole tech stack: .Net Framework & Core backend services, various combos of Asp.Net, Vue.Js and JQuery solutions for widgets, white-label front-end solutions and back office tools.<br />
+          Maintained SQL Server, Redis, Mongo, Elastic Search installations among others.<br />
+          After a few years I became a de-facto lead of our core team. Along the way I pioneered a number of new services and tools, in particular those targeting external integrations<br />
+          Managing basic dev-ops for the on-prem setup was also an important part of the role<br />
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
     content:
@@ -115,9 +116,10 @@ content:
         # quote: >
         #   Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the US but also the world.
         description: | # this will include new lines to allow paragraphs
-          A collaboration between GU and Chalmers University. 
-          It has a practical, group-project based curriculum focused on designing and implementing software systems in a systematic fashion with quantifiable outcomes.
-          Tech:
+          A collaboration between GU and Chalmers University.<br />
+          It has a practical, group-project based curriculum focused on designing and implementing software systems in a systematic fashion with quantifiable outcomes.<br />
+          <br />
+          Tech:<br />
           <mark>Erlang</mark> <mark>C++</mark> <mark>Haskell</mark> <mark>Java</mark>
 
   # - title: A Little More About Me
