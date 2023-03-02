@@ -82,13 +82,15 @@ content:
         sub_title: Tech Lead
         caption: June 2021 - Present
         quote: >
-          Technical lead and engineer for Citybreak, the Central Reservation System for Visit Group
+          Technical lead and exploratory engineer for Citybreak
         description: | # this will include new lines to allow paragraphs
-          Citybreak is a product and business unit at Visit - the company provides an e-commerce SaaS product suite and platform for tourism. 
-          As tech lead, I am responsible for setting the technical roadmap of the platform. 
-          The primary goal of which is to improve the reliability, performance and maintainability of our battle-tested (mostly) .Net codebase - as well as helping guide product development. 
+          Citybreak is the Central Reservation System for Visit Group, both a product and a business unit. Visit provides an e-commerce SaaS product suite and platform for tourism. 
+          As tech lead, I am responsible for setting the technical roadmap of the Citybreak part of the platform. 
+          The primary goals are to improve the reliability, performance and maintainability of our battle-tested (mostly) .Net codebase - as well as helping guide product development. 
           I lead 3 teams so I am also responsible for improving processes, guidance and mentoring of 18 developers. 
           I continue to actively contribute code for POCs, sensitive projects, troubleshooting and while pairing with our junior team members
+          Tech:
+          <mark>.NET Framework</mark> <mark>.NET Core</mark> <mark>C#</mark> <mark>JavaScript</mark> <mark>Vue.js</mark> <mark>TypeScript</mark> <mark>RabbitMQ</mark> <mark>Open Telemetry</mark> <mark>Redis</mark> <mark>MongoDB</mark> <mark>Elasticsearch</mark> <mark>Azure DevOps</mark> <mark>Octopus Deploy</mark> <mark>SQL Server</mark> <mark>VMWare</mark> 
       - layout: left
         title: Visit Group
         link: visit.com
@@ -96,7 +98,7 @@ content:
         sub_title: Software Engineer
         caption: October 2016 - 2021
         quote: >
-          The digital eco-system for tourism
+          Junior -> Senior at Visit
         description: | # this will include new lines to allow paragraphs
           After a career change, I started in the Citybreak business unit at Visit as a junior in 2016. 
           For the next few years I worked across our whole tech stack: .Net Framework & Core backend services, various combos of Asp.Net, Vue.Js and JQuery solutions for widgets, white-label front-end solutions and back office tools. 
@@ -115,6 +117,8 @@ content:
         description: | # this will include new lines to allow paragraphs
           A collaboration between GU and Chalmers University. 
           It has a practical, group-project based curriculum focused on designing and implementing software systems in a systematic fashion with quantifiable outcomes.
+          Tech:
+          <mark>Erlang</mark> <mark>C++</mark> <mark>Haskell</mark> <mark>Java</mark>
 
   # - title: A Little More About Me
   #   layout: text
@@ -141,3 +145,16 @@ sass:
 
 plugins:
  - jekyll-seo-tag
+
+exclude : [
+  "Gemfile",
+  "Gemfile.lock",
+  "node_modules",
+  "vendor/bundle/",
+  "vendor/cache/",
+  "vendor/gems/",
+  "vendor/ruby/",
+  "lib/",
+  "scripts/",
+  "docker-compose.yml",
+  ]
