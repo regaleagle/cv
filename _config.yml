@@ -89,7 +89,7 @@ content:
           The primary goal of which is to improve the reliability, performance and maintainability of our battle-tested (mostly) .Net codebase - as well as helping guide product development. 
           I lead 3 teams so I am also responsible for improving processes, guidance and mentoring of 18 developers. 
           I continue to actively contribute code for POCs, sensitive projects, troubleshooting and while pairing with our junior team members
-                - layout: left
+      - layout: left
         title: Visit Group
         link: visit.com
         # link_text: boringcompany.com
