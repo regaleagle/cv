@@ -106,6 +106,17 @@ content:
           Maintained SQL Server, Redis, Mongo, Elastic Search installations among others.<br />
           After a few years I became a de-facto lead of our core team. Along the way I pioneered a number of new services and tools, in particular those targeting external integrations<br />
           Managing basic dev-ops for the on-prem setup was also an important part of the role<br />
+      - layout: left
+        title: Assorted
+        #link: visit.com
+        # link_text: boringcompany.com
+        sub_title: Various jobs in media and events
+        caption: 1999 - 2013
+        #quote: >
+        #  Junior -> Senior at Visit
+        description: | # this will include new lines to allow paragraphs
+          Before my career change to software development I worked numerous jobs in event and video production back in Australia. I also kick started my working life as a projectionist at the local multiplex<br />
+          If you have any questions about this early direction (in which I picked up many useful skills and a couple of esoteric ones like how you digitised archival film back in the early 2000s), please ask!<br />
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
     content:
@@ -117,11 +128,20 @@ content:
         #   Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the US but also the world.
         description: | # this will include new lines to allow paragraphs
           A collaboration between GU and Chalmers University.<br />
-          It has a practical, group-project based curriculum focused on designing and implementing software systems in a systematic fashion with quantifiable outcomes.<br />
+          The bachelor has a practical, group-project based curriculum focused on designing and implementing software systems in a systematic fashion with quantifiable outcomes.<br />
+          Also completed 3/4 of a Masters in Applied Data Science with Gothenburg University
           <br />
           Tech:<br />
-          <mark>Erlang</mark> <mark>C++</mark> <mark>Haskell</mark> <mark>Java</mark>
+          <mark>Erlang</mark> <mark>C++</mark> <mark>Haskell</mark> <mark>Java</mark> <mark>Python</mark> <mark>Tensorflow</mark>
 
+      - layout: left
+        title: University of Canberra
+        caption: 2003 - 2005
+        sub_title: BA Communications
+        # quote: >
+        #   Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the US but also the world.
+        description: | # this will include new lines to allow paragraphs
+          Focused on Television Production and Marketing<br />
   # - title: A Little More About Me
   #   layout: text
   #   content: | # this will include new lines to allow paragraphs
