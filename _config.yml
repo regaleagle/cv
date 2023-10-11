@@ -84,12 +84,15 @@ content:
         quote: >
           Tech lead and exploratory engineer for Citybreak
         description: | # this will include new lines to allow paragraphs
-          Citybreak is the Central Reservation System for Visit Group. Visit provides an e-commerce SaaS product suite and platform for tourism. 
-          As tech lead, I am responsible for setting the technical roadmap, managing the developers responsible for the product and keeping it live for our hundreds of clients with ever increasing traffic and transactions<br />
-          The primary goals are to improve the reliability, performance and maintainability of our battle-tested (mostly) .Net codebase and Vue.js front-end - as well as helping guide product development<br /> 
-          We provide white label e-com stores, back office and API based solutions for a wide range of tourism providers: from hotel chains and ski resorts to ferry companies and theme parks<br />
-          I lead 3 teams so I am also responsible for improving processes, guidance and mentoring.<br />
-          I continue to actively contribute code for POCs, sensitive projects and troubleshooting.<br />
+          Tech lead and senior engineer for Citybreak, a Central Reservation System for Visit Group. As tech lead, I am responsible for setting the technical roadmap of the platform and various products as well as helping guide product development. I work with 3 teams - currently 18 engineers.<br />
+          Day to day, I work on architectural improvement, tooling, observability and supporting the safe modernisation of our venerable (20+ yrs and counting) and battle-tested core as well as grinding the more challenging engineering tasks. <br />
+          Highlights:
+          - Overseeing the migration of 100+ projects .NetFramework to .Net (Core) <br />
+          - Reworking and modernising our external integration tech to target multiple partners and sister companies <br />
+          - Improving our offering of white lable e-com stores, back office apps and API based solutions to clients ranging from hotel chains and ski resorts to ferry companies and theme parks
+          - Supported migration to Vue 3 from JQuery for our white label search and basket all-in-one client <br />
+          - Hitting strict SLA targets while processing traffic that supports ~300M USD in transactions <br />
+          - Increasing the observability and reliability of the platform with modern standards such as OpenTelemetry and increasing Unit and Integration test coverage <br />
           <br />
           Tech:<br />
           <mark>.NET Framework</mark> <mark>.NET Core</mark> <mark>C#</mark> <mark>JavaScript</mark> <mark>Vue.js</mark> <mark>TypeScript</mark> <mark>RabbitMQ</mark> <mark>Open Telemetry</mark> <mark>Redis</mark> <mark>MongoDB</mark> <mark>Elasticsearch</mark> <mark>Azure DevOps</mark> <mark>Octopus Deploy</mark> <mark>SQL Server</mark> <mark>VMWare</mark> 
