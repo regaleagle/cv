@@ -84,12 +84,12 @@ content:
         quote: >
           Tech lead and exploratory engineer for Citybreak
         description: | # this will include new lines to allow paragraphs
-          Tech lead and senior engineer for Citybreak, a Central Reservation System for Visit Group. As tech lead, I am responsible for setting the technical roadmap of the platform and various products as well as helping guide product development. I work with 3 teams - currently 18 engineers.<br />
+          Tech lead and senior engineer for Citybreak, a Central Reservation System for Visit Group - a tourism e-commerce platform. As tech lead, I am responsible for setting the technical roadmap of the platform and various products as well as helping guide product development. I work with 3 teams - currently 18 engineers.<br />
           Day to day, I work on architectural improvement, tooling, observability and supporting the safe modernisation of our venerable (20+ yrs and counting) and battle-tested core as well as grinding the more challenging engineering tasks. <br />
           Highlights:
           - Overseeing the migration of 100+ projects .NetFramework to .Net (Core) <br />
           - Reworking and modernising our external integration tech to target multiple partners and sister companies <br />
-          - Improving our offering of white lable e-com stores, back office apps and API based solutions to clients ranging from hotel chains and ski resorts to ferry companies and theme parks
+          - Improving our offering of white label stores, back office apps and API based solutions to clients ranging from hotel chains and ski resorts to ferry companies and theme parks
           - Supported migration to Vue 3 from JQuery for our white label search and basket all-in-one client <br />
           - Hitting strict SLA targets while processing traffic that supports ~300M USD in transactions <br />
           - Increasing the observability and reliability of the platform with modern standards such as OpenTelemetry and increasing Unit and Integration test coverage <br />
