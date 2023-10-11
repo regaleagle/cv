@@ -48,9 +48,9 @@ linkedin_username: james-eagle
 # about_title: About Me
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  An avid reader, hobbyist writer and occasional outdoorsman. I love solving problems: software, organisational or architectural; in-code or in the real world - especially those tricky ones that require a trip to the hardware store. Solutions absolutely not guaranteed for that last sub-category though. As an Australian now living in Denmark I have severe beach withdrawals but I am slowly acclimatising to the ice water.
-
-  I have 7 years experience as a professional full stack web developer, the last 2 of which have been as the Tech Lead for a developer group of 18. I try to lead by example and work hard to maintain my own technical competence and contributions but one of my key missions is empowering my team to achieve their own goals and setting them up for success.
+  I have 7 years experience as a professional full stack web developer, the last 2 of which have been as the Tech Lead for a developer group of 18. I like to stay close to the code and lead by example, I work hard to maintain my own technical competence and contributions. At the same time I'm passionate about empowering my team to achieve their own goals and setting them up for success by providing them structure, mentorship and the right tools for the job.
+  
+  I love solving problems and I love building things - in-code or in the real world, especially when it requires a trip to the hardware store. As an Australian now living in Denmark I have severe beach withdrawals but I am slowly acclimatising to the ice water. 
 
 content:
 #   - title: Projects # Title for the section
