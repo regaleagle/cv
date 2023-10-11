@@ -82,13 +82,14 @@ content:
         sub_title: Tech Lead
         caption: June 2021 - Present
         quote: >
-          Technical lead and exploratory engineer for Citybreak
+          Tech lead and exploratory engineer for Citybreak
         description: | # this will include new lines to allow paragraphs
-          Citybreak is the Central Reservation System for Visit Group, both a product and a business unit. Visit provides an e-commerce SaaS product suite and platform for tourism. 
-          As tech lead, I am responsible for setting the technical roadmap of the Citybreak part of the platform.<br />
-          The primary goals are to improve the reliability, performance and maintainability of our battle-tested (mostly) .Net codebase - as well as helping guide product development.<br />
-          I lead 3 teams so I am also responsible for improving processes, guidance and mentoring..<br />
-          I continue to actively contribute code for POCs, sensitive projects, troubleshooting and while pairing with our junior team members<br />
+          Citybreak is the Central Reservation System for Visit Group. Visit provides an e-commerce SaaS product suite and platform for tourism. 
+          As tech lead, I am responsible for setting the technical roadmap, managing the developers responsible for the product and keeping it live for our hundreds of clients with ever increasing traffic and transactions<br />
+          The primary goals are to improve the reliability, performance and maintainability of our battle-tested (mostly) .Net codebase and Vue.js front-end - as well as helping guide product development<br /> 
+          We provide white label e-com stores, back office and API based solutions for a wide range of tourism providers: from hotel chains and ski resorts to ferry companies and theme parks<br />
+          I lead 3 teams so I am also responsible for improving processes, guidance and mentoring.<br />
+          I continue to actively contribute code for POCs, sensitive projects and troubleshooting.<br />
           <br />
           Tech:<br />
           <mark>.NET Framework</mark> <mark>.NET Core</mark> <mark>C#</mark> <mark>JavaScript</mark> <mark>Vue.js</mark> <mark>TypeScript</mark> <mark>RabbitMQ</mark> <mark>Open Telemetry</mark> <mark>Redis</mark> <mark>MongoDB</mark> <mark>Elasticsearch</mark> <mark>Azure DevOps</mark> <mark>Octopus Deploy</mark> <mark>SQL Server</mark> <mark>VMWare</mark> 
